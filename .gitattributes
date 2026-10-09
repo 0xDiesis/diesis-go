@@ -1,0 +1,5 @@
+contracts/*.go linguist-generated=true
+addresses.go linguist-generated=true
+chains.go linguist-generated=true
+contract_table.go linguist-generated=true
+canonical.json linguist-generated=true
